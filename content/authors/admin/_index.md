@@ -60,6 +60,6 @@ I am eager to continue my research journey and collaborate with other profession
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/max-resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
 
 

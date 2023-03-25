@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Emmanuel Teitelbaum's home page"
+description = "Guangying Ma's home page"
 
 ############################
 ## Site Features
@@ -93,21 +93,21 @@ phone = "(202) 994-9125"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2115 G Street, NW", city = "Washington", region = "DC", postcode = "20052", country = "United States", country_code = "US"}
+address = {street = "1905 West Taylor", city = "Chicago", region = "IL", postcode = "60612", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.89880372360921", longitude = "-77.04731445946355"} 
+coordinates = {latitude = "41.86891146020684", longitude = "-87.67406831395324"} 
 
 # Directions for visitors to locate you.
-directions = "Rm 411 Monroe Hall"
+directions = "Lions of Illinois Eye Research Institute"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Tuesdays 3 p.m. to 5 p.m. EST"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/emmanuel-teitelbaum"
+#appointment_url = "https://calendly.com/emmanuel-teitelbaum"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
