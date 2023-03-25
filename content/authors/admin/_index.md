@@ -1,29 +1,33 @@
 ---
-bio: My research interests include comparative political economy, data science and the politics of South Asia.
+bio: My research interests include advanced instrumentation, quantitative OCT/OCTA imaging and functional OCT of retinal neurovasculature,
 
 education:
   courses:
-  - course: PhD in Government (Political Science)
-    institution: Cornell University
-    year: 2006
+  - course: PhD in Biomedical Engineering (in progress)
+    institution: University of Illinois Chicago
+    year: 2024
   - course: BA in Political Science and Philosophy
-    institution: John Carroll University
-    year: 1997
+    institution: Nankai University
+    year: 2013
+  - course: BSc in Chemistry 
+    institution: Nankai University
+    year: 2009
     
-email: "ejt@gwu.edu"
+email: "gma7@uic.edu"
 
 highlight_name: false
 
 interests:
-- Comparative political economy
-- Data science
-- South Asia
+- Optics
+- Image Processing
+- OCT/OCTA imaging
+- Data Analysis and Statistics
 
 organizations:
-- name: The George Washington University
-  url: https://www.gwu.edu/
+- name: University of Illinois at Chicago
+  url: https://www.uic.edu/
   
-role: Associate Professor of Political Science and International Affairs
+role: 4th year PhD Candidate
 
 social:
 - icon: envelope
@@ -31,27 +35,32 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/eteitelbaum
+  link: https://mobile.twitter.com/yaolabuic
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=x146Ra0AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=4JTL_ccAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/eteitelbaum
+  link: https://github.com/maguangying
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
+  link: https://www.linkedin.com/in/guangying-ma-19124a208/
   
 superuser: true
 
 title: 
 ---
 
-I am an associate professor of political science and international affairs at [The George Washington University](https://www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
+I am a fourth-year PhD candidate in Biomedical Engineering at [University of Illinois at Chicago](https://www.uic.edu). My research focuses on functional Optical Coherence Tomography (OCT) of retinal neurovasculature, exploring the potential to transform our understanding of retinal diseases and develop innovative diagnostic and treatment methods. 
 
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
+I have a strong interdisciplinary background, having earned by Bachelor's degree from Nankai University and my Master's degree in Polymer Chemistry from a top Chinese university. This diverse academic foundation allows me approach biomedical challenges from unique perspectives and integrate chemistry and materials science into my research. 
 
-I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
+Before starting my PhD, I was a dedicated science teacher with experience in teaching college-level courses in chemistry, biology, physics, geography and mathematics. I am passionate about inspiring the next generation of scientists and researchers through effective teaching and mentorship.
+
+At [University of Illinois at Chicago](https://www.uic.edu), I am part of the [Biomedical Optics and Ophthalmic Imaging Laboratory](https://yaolab.bioe.uic.edu/), mentored by my PI, [Professor Xincheng Yao](https://yaolab.bioe.uic.edu/dr-yao/) while working closely with fellow researchers and faculty members. I have published numerous papers and presented my research at various scientific conferences, demonstrating my commitment to advancing the field of retinal neurovasculature research. 
+
+I am eager to continue my research journey and collaborate with other professionals in my field. Please feel free to explore my website for more information on my research, publications, and teaching experiences. 
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
