@@ -6,12 +6,9 @@ education:
   - course: PhD in Biomedical Engineering (in progress)
     institution: University of Illinois Chicago
     year: 2024
-  - course: BA in Political Science and Philosophy
+  - course: MSc in Polymer Chemistry 
     institution: Nankai University
     year: 2013
-  - course: BSc in Chemistry 
-    institution: Nankai University
-    year: 2009
     
 email: "gma7@uic.edu"
 
@@ -64,3 +61,5 @@ I am eager to continue my research journey and collaborate with other profession
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+
+
