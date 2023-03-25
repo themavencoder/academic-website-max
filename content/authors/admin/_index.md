@@ -9,7 +9,10 @@ education:
   - course: MSc in Polymer Chemistry 
     institution: Nankai University
     year: 2013
-    
+  - course: BSc in Polymer Chemistry 
+    institution: Nankai University
+    year: 2009
+        
 email: "gma7@uic.edu"
 
 highlight_name: false
@@ -55,7 +58,7 @@ Before starting my PhD, I was a dedicated science teacher with experience in tea
 
 At [University of Illinois at Chicago](https://www.uic.edu), I am part of the [Biomedical Optics and Ophthalmic Imaging Laboratory](https://yaolab.bioe.uic.edu/), mentored by my PI, [Professor Xincheng Yao](https://yaolab.bioe.uic.edu/dr-yao/) while working closely with fellow researchers and faculty members. I have published numerous papers and presented my research at various scientific conferences, demonstrating my commitment to advancing the field of retinal neurovasculature research. 
 
-I am eager to continue my research journey and collaborate with other professionals in my field. Please feel free to explore my website for more information on my research, publications, and teaching experiences. 
+I am eager to continue my research journey and collaborate with other professionals in my field. Please feel free to explore my website for more information on my research and publications.  
 
 
 
